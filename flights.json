@@ -1,0 +1,32 @@
+[
+    {
+        "destination": "Moscow",
+        "flight_number": "10",
+        "airplane_type": "Airplane"
+    },
+    {
+        "destination": "Moscow",
+        "flight_number": "10",
+        "airplane_type": "Airplane"
+    },
+    {
+        "destination": "Omsk",
+        "flight_number": "11",
+        "airplane_type": "Air2"
+    },
+    {
+        "destination": "Omsk",
+        "flight_number": "11",
+        "airplane_type": "Air2"
+    },
+    {
+        "destination": "Omsk",
+        "flight_number": "14",
+        "airplane_type": "Air2"
+    },
+    {
+        "destination": "Omsk",
+        "flight_number": "14",
+        "airplane_type": "Air2"
+    }
+]
